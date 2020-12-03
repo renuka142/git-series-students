@@ -13,7 +13,7 @@ ANS:1.Easy project management
 2.Easy code hosting
 3.Improved code writing
 4.Code safety
-5.Keeps track of all changes made
+5.Keeps track of all changes made.
 
 - What is a version control system? How git is VCS?
 ANS:A version control system is a system that keeps track of all changes that user have made .
