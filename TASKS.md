@@ -30,7 +30,7 @@ Phabricator
 -  what are you interested  in learning of git and github.
 ANS:I am interested in learning git and Github because the management of source code is very easy and less time consuming.
 Also the Github is very user friendly and yet efficient to use.
-I think i can handle my projects in more organised and better way through these platforms
+I think i can handle my projects in more organised and better way through these platforms.
 
 
 ## day 2:
