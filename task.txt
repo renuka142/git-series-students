@@ -62,5 +62,4 @@ Diff: difference between files in your workspace and index
 https://github.com/renuka142/texts.git
 
 
-some text for the conflict
-another text
+tsesting merge conflict
