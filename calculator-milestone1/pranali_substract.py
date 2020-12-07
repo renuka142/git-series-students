@@ -7,4 +7,4 @@ b=int(input("Enter value of b : "))
 
 #displaying result
 result=substract(a,b)
-print(substract)
+print(result)
