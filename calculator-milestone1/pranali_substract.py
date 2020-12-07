@@ -1,6 +1,10 @@
+#function to substract two numbers
 def substract(a,b):
     c=a-b
     return c
-a=int(input("enter first number : "))
-b=int(input("enter second number : "))
-print("difference : ",substract(a,b))
+a=int(input("Enter value of a : "))
+b=int(input("Enter value of b : "))
+
+#displaying result
+result=substract(a,b)
+print(substract)
