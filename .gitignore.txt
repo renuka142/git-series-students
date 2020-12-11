@@ -1,9 +1,0 @@
-My_completed_tasks/
-Pranali/
-SindhujaKoduru/
-Task 5/
-Task4/
-intro.txt
-INTRODUCTION.md
-task.txt
-TASKS.md
